@@ -1,0 +1,2 @@
+# Starsprintout
+Print out stars 
